@@ -8,7 +8,7 @@
    Functions in this version:
    All keys work
    Media keys work
-   Capslock, numlock and scrollock work and they check what the host status is for the LES lights
+   Capslock, numlock and scrollock work and they check what the host status is for the LED lights
    <>| key works now
 
    Added in this version:
