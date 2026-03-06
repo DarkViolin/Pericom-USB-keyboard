@@ -1,7 +1,7 @@
 /*
    2018-01-06 19:46
    Pericom serial terminal keyboard á 1983 - to - USB
-   REV.1.2
+   REV.1.2.0
 
    This is the first working version of my program. Media keys are not working, I think it is because the library isn't supporting them yet.
    Please mind the horrific nested if else statements and so on. I'm sorry. It looks utterly terrible, but it works!
